@@ -1,5 +1,12 @@
 # firecrawl-scraper
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/firecrawl-scraper/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/firecrawl-scraper/actions)
+![License](https://img.shields.io/github/license/yksanjo/firecrawl-scraper)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/firecrawl-scraper)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/firecrawl-scraper)
+
 ## Detailed Description
 
 firecrawl-scraper is maintained as an industry-grade software project with production-ready engineering practices.  
